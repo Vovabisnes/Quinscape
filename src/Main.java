@@ -5,6 +5,6 @@ public class Main {
     }
 
     public static void newFeature(){
-        System.out.println("new Feature is ready");
+        System.out.println("Test");
     }
 }
